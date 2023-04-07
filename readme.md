@@ -42,6 +42,6 @@ Here's a screenshot of the app:
 
 ## 📧 Contact
 
-If you have any questions or comments, please feel free to contact me at inurigunathilaka1999@gmail.com.
+If you have any questions or comments, please feel free to contact me at inurilee99@gmail.com.
 
 Thank you for checking out my Todo-list app! 🙏
